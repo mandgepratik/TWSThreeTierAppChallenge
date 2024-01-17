@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: app.trainwithshubham.com
+    - host: app.44.200.65.214.nip.io
       http:
         paths:
           - path: /api
